@@ -13,4 +13,3 @@ int main()
 		printf("%s\n",nation[i]);
 	}
 }
-
